@@ -1,0 +1,3 @@
+[submodule "apps/tivocontrol"]
+	path = apps/tivocontrol
+	url = https://github.com/rweir27/tivocontrol.git
